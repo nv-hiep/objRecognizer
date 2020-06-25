@@ -33,6 +33,6 @@ save the mode in model_data/yolo3_saved_model.h5
 test image: test_data/test_img.jpg
 output: results/img_bbox_yolo_v3.jpg
 
-4. Run yolov3_model_predict_video.py to recognize objects in a video
+4. Run yolov3_model_predict_image_video.py to recognize objects in a video
 test video: test_data/street.mp4
 output: test_data/street_bbox_yolo_v3.mp4
