@@ -1,0 +1,5 @@
+python3
+tensorflow >= 2.2.*
+keras > 2.3.*
+tqdm
+imgaug
